@@ -3,8 +3,8 @@
 ## System Environment
 - Ubuntu 18.04.1 LTS
 - Python >= 3.6
-- opencv >= 3.4.1
-- numpy >= 1.14.4
+- Opencv >= 3.4.1
+- Numpy >= 1.14.4
 
 ## Running the tests
 ```
