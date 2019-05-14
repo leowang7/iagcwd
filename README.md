@@ -1,4 +1,4 @@
-# Improved Adaptive Aamma Correction
+# Improved Adaptive Gamma Correction
 
 ## System Environment
 - Ubuntu 18.04.1 LTS
@@ -8,6 +8,7 @@
 
 ## Running the tests
 ```
+python IAGCWD.py --input ./input --output ./output
 ```
 
 ## References
