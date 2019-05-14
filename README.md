@@ -8,7 +8,7 @@ This is an python implementation of the paper "Contrast enhancement of brightnes
 - Numpy >= 1.14.4
 
 ## Gamma Correction Results
-![results](docs/imgs/test_results.png)
+![results](docs/img/test_results.png)
 
 ## Running the tests
 ```
